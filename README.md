@@ -9,4 +9,4 @@ A battle royale datapack for Minecraft 1.17.
  - Weapons/tools are pre-enchanted with Efficiency and Unbreaking
  - Players start the round with damaged leather armor
 ## Information
-An addon for auto smelted ores and food items is available in the releases tab. It is will be merged with the current release soon.
+An addon for auto smelted ores and food items is available on the releases tab. It will be merged with the current release soon.
