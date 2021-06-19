@@ -2,9 +2,10 @@
 A battle royale datapack for Minecraft 1.17.
 ## Commands
 `/function br:start` - Starts/resets a round
-## Rules
+## Gamemode
  - Intended for 4-8 players
- - 900x900 worldborder
+ - Randomly generated terrain in every match without the need to restart the server
+ - 900x900 initial worldborder
  - Linearly closes to a 3x3 space over 15 minutes
  - Weapons/tools are pre-enchanted with Efficiency and Unbreaking
  - Players start the round with damaged leather armor
