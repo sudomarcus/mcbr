@@ -1,5 +1,6 @@
 # mcbr - Minecraft Battle Royale
 A battle royale datapack for Minecraft 1.17.
+
 ![Screenshot](https://i.imgur.com/FroyGOf.png)
 ## Commands
 `/function br:start` - Starts/resets a round
