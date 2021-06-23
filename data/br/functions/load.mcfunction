@@ -17,3 +17,12 @@ gamerule doImmediateRespawn true
 gamerule spectatorsGenerateChunks false
 gamerule doPatrolSpawning false
 gamerule doTraderSpawning false
+
+scoreboard objectives add break_iron_ore minecraft.mined:minecraft.iron_ore
+scoreboard objectives add break_gold_ore minecraft.mined:minecraft.gold_ore
+scoreboard objectives add break_ds_gold_ore minecraft.mined:minecraft.deepslate_gold_ore
+scoreboard objectives add break_ds_iron_ore minecraft.mined:minecraft.deepslate_iron_ore
+scoreboard objectives add break_potatoes minecraft.mined:minecraft.potatoes
+
+scoreboard objectives add has_silk_touch dummy
+scoreboard players set 1 break_iron_ore 0
