@@ -5,7 +5,7 @@ A battle royale datapack for Minecraft 1.18.
 ## Commands
 `/function br:start` - Starts/resets a round
 ## Gamemode
- - Intended for 4-8 players
+ - Intended for 4-12 players
  - Randomly generated terrain in every match without the need to restart the server
  - 900x900 initial worldborder
  - Linearly closes to a 3x3 space over 15 minutes
